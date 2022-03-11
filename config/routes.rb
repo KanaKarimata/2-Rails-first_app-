@@ -3,3 +3,4 @@ Rails.application.routes.draw do
 get 'top' => 'homes#top'
 
 end
+# [Finish]2-3
